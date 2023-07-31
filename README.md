@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Nur University and coding stuffs.
 
-- 🌱 &nbsp; Learning about Java, Kotlin, Phyton, Android Development, HTML, CSS, MySQL, PostgreSQL.
+- 🌱 &nbsp; Learning about Java, React, Phyton, Android Development, HTML, CSS, MySQL, Laravel.
 
 - ✍️ &nbsp; Pursuing Video Games Development as hobbies/side hustles.
 
@@ -20,6 +20,6 @@
 
 
 
-- 💻 &nbsp; Java | Kotlin | Phyton | Android Development | MySQL | PostgreSQL
+- 💻 &nbsp; Java | React | Phyton | Android Development | MySQL | Laravel
 
 - 🌐 &nbsp; HTML | CSS
